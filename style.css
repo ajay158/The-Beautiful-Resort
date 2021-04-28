@@ -92,15 +92,16 @@
   width: 100%;
   text-align: center;
   padding: 30px 0;
+  color: #fff;
+  background: #0a043c;
 }
 .icons {
-  color: #0a043c;
   cursor: pointer;
   padding-bottom: 18px ;
 
 }
 .icons .fab{
-  color: #0e49b5;
+  color: #fff;
   padding: 5px;
   font-size: large;
 }
